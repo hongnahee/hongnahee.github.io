@@ -42,12 +42,10 @@ title: Home
 
 #### 🧩 Algorithm (Baekjoon Online Judge)
 * **Problem Solving**: Python을 이용한 알고리즘 문제 풀이 (매일 1문제 목표!)
-* [👉 나희의 백준 프로필 보러가기](https://www.acmicpc.net/)
 
 ---
 
 ### 📫 Contact
-* **Email**: 본인이메일@example.com
 * **Github**: [https://github.com/hongnahee](https://github.com/hongnahee)
 
 <br>
