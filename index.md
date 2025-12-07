@@ -15,16 +15,16 @@ title: Home
 ### 🛠 Tech Stack & Skills
 제가 사용할 수 있는 기술과 도구들입니다.
 
-**Languages**
+**Languages :**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-**Infrastructure & Tools**
+**Infrastructure & Tools :**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**Interest**
+**Interest :**
 ![BigData](https://img.shields.io/badge/Big_Data-Analysis-blue?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Information-Security-red?style=for-the-badge)
 
